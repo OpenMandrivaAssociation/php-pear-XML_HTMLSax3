@@ -6,7 +6,7 @@
 Summary:	A SAX parser for HTML and other badly formed XML documents
 Name:		php-pear-%{_pearname}
 Version:	3.0.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/XML_HTMLSax3/
