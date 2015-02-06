@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	3.0.0
-Release:	8
+Release:	9
 Summary:	A SAX parser for HTML and other badly formed XML documents
 License:	PHP License
 Group:		Development/PHP
