@@ -8,7 +8,7 @@ Release:	9
 Summary:	A SAX parser for HTML and other badly formed XML documents
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_HTMLSax3/
+URL:		https://pear.php.net/package/XML_HTMLSax3/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
